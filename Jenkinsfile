@@ -3,7 +3,7 @@ pipeline{
     stages{
       stage('Run  project'){
           steps{
-          python train_chatbot.py
+          sh 'python train_chatbot.py'
           }
       }
     }
