@@ -1,0 +1,28 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+            <learn>standard/bot_profile.aiml</learn>
+            <learn>standard/client_profile.aiml</learn>
+            <learn>standard/bot.aiml</learn>
+            <learn>standard/client.aiml</learn>
+            <learn>standard/emotion.aiml</learn>
+            <learn>standard/psychology.aiml</learn>
+            <learn>standard/placement.aiml</learn>
+            <learn>standard/pyschology.aiml</learn>
+            <learn>standard/admission.aiml</learn>
+            <learn>standard/percent.aiml</learn>
+            <learn>standard/salutations.aiml</learn>
+            <learn>standard/assist.aiml</learn>
+            <learn>standard/CA.aiml</learn>
+            <learn>standard/hi.aiml</learn>
+            <learn>standard/date.aiml</learn>
+            <learn>standard/personality.aiml</learn>
+            <learn>standard/yesno.aiml</learn>
+            <learn>standard/that.aiml</learn>
+            <learn>standard/humor.aiml</learn>
+            <learn>standard/Academics.aiml</learn>
+        </template>
+    </category>
+</aiml>
